@@ -2,4 +2,7 @@
     <string name="app_name">TesteGit</string>
 
     <string name="teste">Teste no Git</string>
+
+    <string name="teste2">Mais um teste</string>
+
 </resources>
